@@ -11,6 +11,9 @@ body{
     height: 180px;
     border: 1px solid #000;
     border-radius: 46%;
+    position: relative;
+    top: 100px;
+    left: 100px;
     background: linear-gradient(#5e5e5e 85%, #45454f 100%);
 }
  
